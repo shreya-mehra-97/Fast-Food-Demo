@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import './MenuItem.css';
 import img4 from './assets/img4.jpeg';
 import img1 from './assets/img1.jpeg';

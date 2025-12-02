@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import "./Footer.css";
 import footer from './assets/footer.png';
 

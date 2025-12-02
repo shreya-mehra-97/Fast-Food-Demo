@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import './Services.css';
 import burgerIcon from './assets/burger_illustration_1.png';
 import veggie from './assets/burger_illustration_2.png'
