@@ -351,8 +351,13 @@
     justify-content: center;
   }
 
+  .text-content img {
+    width: 20rem;
+    height: 20rem;
+  }
+
   .slide-content {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: stretch;
     text-align: left;
     background: #ffffff;
@@ -369,6 +374,7 @@
   .image-content {
     order: 1;
     width: 100%;
+    padding: 1rem;
   }
 
   .image-wrapper {

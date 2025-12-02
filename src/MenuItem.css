@@ -150,6 +150,10 @@
     min-height: auto;
   }
 
+  .menu-item-type {
+    width: 18%;
+  }
+
   .discounted-price,
   .regular-price {
     font-size: 1.3rem;
@@ -161,6 +165,10 @@
 
   .menu-divider {
     margin: 1.5rem -1.5rem -1.5rem -1.5rem;
+  }
+
+  .menu-card-content {
+    padding: 1rem;
   }
 }
 
